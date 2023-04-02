@@ -21,6 +21,7 @@ Creaiamo un custom policies per in base all'uso da fare
 
 1. Andiamo su Policy, poi Scan Templates
 2. Inseriamo un nome e se serve una descrizione 
+![img-1](https://github.com/Jxancestral17/utilitiesCyberSecurity/blob/master/VA/IMG/nessus-custom-1.png)
 3. 
 
 
