@@ -26,5 +26,5 @@
 ### 4. Grabber IP
 
 [IpLogger](https://iplogger.org.)  -> Shortener Link per otterene info come ip  <br>
-[]()  ->  <br>
-[]()  ->  <br>
+
+
