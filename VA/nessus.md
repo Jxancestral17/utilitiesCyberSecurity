@@ -53,7 +53,7 @@ Creaiamo un custom policies in base all'uso da fare
 
 1. Vai alla Scan Templates e premi su User Defined
 ![img-15](https://github.com/Jxancestral17/utilitiesCyberSecurity/blob/master/VA/IMG/img-15.png)
-2. Setup dello scan
+2. Setup dello scan<br>
 ![img-16](https://github.com/Jxancestral17/utilitiesCyberSecurity/blob/master/VA/IMG/img-16.png)
 3. Vai nella sezione My Scans e premi il tasto start per avviare lo scan 
 ![img-17](https://github.com/Jxancestral17/utilitiesCyberSecurity/blob/master/VA/IMG/img-17.png)
