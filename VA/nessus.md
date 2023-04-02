@@ -44,7 +44,7 @@ Creaiamo un custom policies in base all'uso da fare
 ![img-11](https://github.com/Jxancestral17/utilitiesCyberSecurity/blob/master/VA/IMG/img-11.png)
 13. La sezione Report, puoi fare customizzare le tipologie di info. 
 ![img-12](https://github.com/Jxancestral17/utilitiesCyberSecurity/blob/master/VA/IMG/img-12.png)
-14. La sezione Advanced, puoi settare equilibri tra velocità e precisione nello scanning del target o con la limitazione magari di un numero massimo di sessioni TCP per evitare blocchi o divieti da parte del target. Es: Firewall CheckPoint Blocca ip se in un minuti genera più di 100 connessioni.
+14. La sezione Advanced, puoi settare equilibri tra velocità e precisione nello scanning del target o con la limitazione magari di un numero massimo di sessioni TCP per evitare blocchi o divieti da parte del target. Es: Firewall CheckPoint Blocca ip se in un minuti genera più di 100 connessioni.<br>
 ![img-13](https://github.com/Jxancestral17/utilitiesCyberSecurity/blob/master/VA/IMG/img-13.png)
 15. La tab Credentials permette di settare credenziali se siamo in modalita white o gray 
 ![img-14](https://github.com/Jxancestral17/utilitiesCyberSecurity/blob/master/VA/IMG/img-14.png)
