@@ -31,35 +31,35 @@ Creaiamo un custom policies in base all'uso da fare
 6. La sezione Identity, se stiamo facendo un white o gray box è possibile estrarre i dati dalle Active Directory
 ![img-5](https://github.com/Jxancestral17/utilitiesCyberSecurity/blob/master/VA/IMG/img-5.png)
 7. La sezione Assessment -> General, settare impostazione Accuracy cosi da non restituire falsi postivi su "Avoid".
-![img-6]()
+![img-6](https://github.com/Jxancestral17/utilitiesCyberSecurity/blob/master/VA/IMG/img-6.png)
 8. La sezione Brute Force, possiamo settare delle defult cred oppure settare Hydra
 ![img-7](https://github.com/Jxancestral17/utilitiesCyberSecurity/blob/master/VA/IMG/img-7.png)
 9. La sezione Web Applications, desettare Generic web application test, rallenta lo scan e non funziona bene 
-![img-8]()
+![img-8](https://github.com/Jxancestral17/utilitiesCyberSecurity/blob/master/VA/IMG/img-8.png)
 10. La sezione Windows, puoi decidere di fare l'enumerazione degli account attraverso Active Directory.
-![img-9]()
+![img-9](https://github.com/Jxancestral17/utilitiesCyberSecurity/blob/master/VA/IMG/img-9.png)
 11. La sezione Malware, scopre malware nei target scansionati utilizzando approci diversi e IoC 
-![img-10]()
+![img-10](https://github.com/Jxancestral17/utilitiesCyberSecurity/blob/master/VA/IMG/img-10.png)
 12. La sezione Database, se sappiamo che hosts ospita un db Oracle possiamo scansionarlo e attivare questto settings.
-![img-11]()
+![img-11](https://github.com/Jxancestral17/utilitiesCyberSecurity/blob/master/VA/IMG/img-11.png)
 13. La sezione Report, puoi fare customizzare le tipologie di info. 
-![img-12]()
+![img-12](https://github.com/Jxancestral17/utilitiesCyberSecurity/blob/master/VA/IMG/img-12.png)
 14. La sezione Advanced, puoi settare equilibri tra velocità e precisione nello scanning del target o con la limitazione magari di un numero massimo di sessioni TCP per evitare blocchi o divieti da parte del target. Es: Firewall CheckPoint Blocca ip se in un minuti genera più di 100 connessioni.
-![img-13]()
+![img-13](https://github.com/Jxancestral17/utilitiesCyberSecurity/blob/master/VA/IMG/img-13.png)
 15. La tab Credentials permette di settare credenziali se siamo in modalita white o gray 
-![img-14]()
+![img-14](https://github.com/Jxancestral17/utilitiesCyberSecurity/blob/master/VA/IMG/img-14.png)
 
 ## SCAN CON LA CUSTOM POLICY 
 
 1. Vai alla Scan Templates e premi su User Defined
-![img-15]()
+![img-15](https://github.com/Jxancestral17/utilitiesCyberSecurity/blob/master/VA/IMG/img-15.png)
 2. Setup dello scan
-![img-16]()
+![img-16](https://github.com/Jxancestral17/utilitiesCyberSecurity/blob/master/VA/IMG/img-16.png)
 3. Vai nella sezione My Scans e premi il tasto start per avviare lo scan 
-![img-17]()
+![img-17](https://github.com/Jxancestral17/utilitiesCyberSecurity/blob/master/VA/IMG/img-17.png)
 4. Puoi monitorare lo status dello scan
 5. Quando viene completato per ottenere il report basta premere su Report 
-![img-18]()
+![img-18](https://github.com/Jxancestral17/utilitiesCyberSecurity/blob/master/VA/IMG/img-18.png)
 
 
 
