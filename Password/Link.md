@@ -4,5 +4,5 @@
 [Mentalist](https://github.com/sc0tfree/mentalist) -> Generatore password 
 
 
-&nbsp; Guardare la sezione OSINT -> [Tool](https://github.com/Jxancestral17/utilitiesCyberSecurity/blob/master/OSINT/Tool.md) -> Paragrafo 3. Password,Hash, etc
+*Guardare la sezione OSINT -> [Tool](https://github.com/Jxancestral17/utilitiesCyberSecurity/blob/master/OSINT/Tool.md) -> Paragrafo 3. Password,Hash, etc*
 &ensp;  Guardare la sezione OSINT -> [Tool](https://github.com/Jxancestral17/utilitiesCyberSecurity/blob/master/OSINT/Tool.md) -> Paragrafo 3. Password,Hash, etc
