@@ -23,17 +23,17 @@ Creaiamo un custom policies in base all'uso da fare
 2. Inseriamo un nome e se serve una descrizione 
 ![img-1](https://github.com/Jxancestral17/utilitiesCyberSecurity/blob/master/VA/IMG/nessus-custom-1.png)
 3. La sezione Discovery possiamo settare i vari protocolli. Se con nmap troviamo una porta aperta la possiamo aggiungere alla sezione "Destination Ports" -> esempio: "Built-in, 23"
-![img-2]()
+![img-2](https://github.com/Jxancestral17/utilitiesCyberSecurity/blob/master/VA/IMG/img-2.png)
 4. La sezione Port Scanning possiamo configurare le porte. Default è un SYN Scan. Default prende porte considerate comuni per Tenable.
-![img-3]()
+![img-3](https://github.com/Jxancestral17/utilitiesCyberSecurity/blob/master/VA/IMG/img-3.png)
 5. La sezione Service Discovery settare "Probe all ports to find services", cosi anche se alcuni servizi si trovano su porte non standard vengono trovi.
-![img-4]()
+![img-4](https://github.com/Jxancestral17/utilitiesCyberSecurity/blob/master/VA/IMG/img-4.png)
 6. La sezione Identity, se stiamo facendo un white o gray box è possibile estrarre i dati dalle Active Directory
-![img-5]()
+![img-5](https://github.com/Jxancestral17/utilitiesCyberSecurity/blob/master/VA/IMG/img-5.png)
 7. La sezione Assessment -> General, settare impostazione Accuracy cosi da non restituire falsi postivi su "Avoid".
 ![img-6]()
 8. La sezione Brute Force, possiamo settare delle defult cred oppure settare Hydra
-![img-7]()
+![img-7](https://github.com/Jxancestral17/utilitiesCyberSecurity/blob/master/VA/IMG/img-7.png)
 9. La sezione Web Applications, desettare Generic web application test, rallenta lo scan e non funziona bene 
 ![img-8]()
 10. La sezione Windows, puoi decidere di fare l'enumerazione degli account attraverso Active Directory.
