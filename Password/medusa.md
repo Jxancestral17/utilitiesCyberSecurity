@@ -23,8 +23,9 @@ Per vedere i moduli e le opzioni possibli
 medusa -q
 ```
 
+# Command esempio
 
 ```bash
-
+medusa -h {IP} -U {user_file} -P {passwrod_file} -M {protocollo(ssh, http, ecc)} -v 4 -e ns
 ```
 
