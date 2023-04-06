@@ -1,6 +1,6 @@
 # John the ripper 
 
-### Tool passwrod Cracking
+### Tool passwrod Cracking usa la CPU
 
 ## Installazione 
 
@@ -21,7 +21,7 @@ john --single --format=raw-sha1 {path_file_name}
 ```
 
 Con format puo cambiare con md5, sha-2 , ecc
-Il file in questione deve essere un singolo combo(N.B. Vedere [Hydra]() sezione combinazione)
+Il file in questione deve essere un singolo combo(N.B. Vedere [Hydra](https://github.com/Jxancestral17/utilitiesCyberSecurity/blob/master/Password/hydra.md) sezione combinazione)
 
 ## Con dizionario 
 
