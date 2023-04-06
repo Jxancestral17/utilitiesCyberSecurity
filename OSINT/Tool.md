@@ -1,5 +1,7 @@
 # TOOl OSINT
 
+
+
 ### 1. Network <br>
 [Shodan](http://shodan.io) ->  ""Online scan"""<br> 
 [Censys](https://search.censys.io) -> Simile a shodan<br>
@@ -28,3 +30,6 @@
 [IpLogger](https://iplogger.org.)  -> Shortener Link per otterene info come ip  <br>
 
 
+
+### External
+[Awesom OSINt](https://github.com/jivoi/awesome-osint) <br>
