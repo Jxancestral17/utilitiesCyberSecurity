@@ -26,3 +26,7 @@ Vedere OSINT->[Tool](https://github.com/Jxancestral17/utilitiesCyberSecurity/blo
 
 ### 4. Certificati TLS
 [TLS  Free](https://letsencrypt.org/) <br>
+
+### Altro
+
+[Red Plan](https://github.com/magoo/redteam-plan#date-time-estimations:) <br>
